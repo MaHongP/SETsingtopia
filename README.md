@@ -5,12 +5,10 @@ Our team includes following brilliant young men:
 
 Hongpeng Ma mahongpengamars@163.com
 
-Orson Xu *****@foxmail.com
+**** Xu *****@foxmail.com
 
-Kaiwen Li *****@mails.tsinghua.edu.cn
+**** Li *****@mails.tsinghua.edu.cn
 
-dingsf *****@mails.tsinghua.edu.cn
-
-Xiang Lu *****@mails.tsinghua.edu.cn
+**** Lu *****@mails.tsinghua.edu.cn
 
 
