@@ -3,14 +3,14 @@ Here we begin our development of our awesome RPG - Tsingtopia!
 
 Our team includes following brilliant young men:
 
-Orson Xu orson.xu@foxmail.com
+Hongpeng Ma mahongpengamars@163.com
 
-Kaiwen Li lkw14@mails.tsinghua.edu.cn
+Orson Xu *****@foxmail.com
 
-Hongpeng Ma mhp14@mails.tsinghua.edu.cn 
+Kaiwen Li *****@mails.tsinghua.edu.cn
 
-dingsf dsf13@mails.tsinghua.edu.cn
+dingsf *****@mails.tsinghua.edu.cn
 
-Xiang Lu lux14@mails.tsinghua.edu.cn
+Xiang Lu *****@mails.tsinghua.edu.cn
 
 
